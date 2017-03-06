@@ -1,0 +1,17 @@
+var vertimax = [
+	{
+	"title": "Burpees",
+	"sport": "general",
+	"resistance": "low"
+	},
+	{
+	"title": "Barebell Snatchs",
+	"sport": "general",
+	"resistance": "med"
+	},
+	{
+	"title": "Mountain Climbers",
+	"sport": "general",
+	"resistance": "high"
+	}
+]
