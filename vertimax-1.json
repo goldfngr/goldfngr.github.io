@@ -19,7 +19,7 @@ var vertimax = [
 	"drill": "Mountain Climbers",
 	"sport": "general",
 	"reps": {
-      "resistance": ["10, 15],
+      "resistance": [10, 15],
       "no-resistance": [30, 40]
     }
   }
