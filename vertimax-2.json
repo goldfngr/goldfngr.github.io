@@ -1,0 +1,26 @@
+var vertimax = [
+	{
+	"drill": "Barebell Snatchs",
+	"sport": "HIIT",
+	"reps":{
+      "resistance": ["12", "15"],
+      "no-resistance": ["8", "10"]
+    }
+},
+	{
+	"drill": "Bench Press",
+	"sport": "HIIT",
+	"reps": {
+      "resistance": ["8", "10"],
+      "no-resistance": ["10", "14"]
+    }
+},
+	{
+	"drill": "Dead Lifts",
+	"sport": "HIIT",
+	"reps": {
+      "resistance": ["10", "15"],
+      "no-resistance": ["30", "40"]
+    }
+}
+]

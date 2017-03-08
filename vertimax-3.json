@@ -1,0 +1,26 @@
+var vertimax = [
+	{
+	"drill": "Walking Lunges",
+	"sport": "general",
+	"reps":{
+      "resistance": ["12", "15"],
+      "no-resistance": ["8", "10"]
+    }
+},
+	{
+	"drill": "Chop Wood",
+	"sport": "general",
+	"reps": {
+      "resistance": ["8", "10"],
+      "no-resistance": ["10", "14"]
+    }
+},
+	{
+	"drill": "Barbell Curls",
+	"sport": "general",
+	"reps": {
+      "resistance": ["10", "15"],
+      "no-resistance": ["30", "40"]
+    }
+}
+]
