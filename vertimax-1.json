@@ -3,8 +3,8 @@
 	"drill": "Burpees",
 	"sport": "general",
 	"reps":{
-        "resistance": ['12', '15'],
-        "no-resistance": ['8' ,'10']
+        "resistance": [12, 15],
+        "no-resistance": [8 ,10]
          }
 },
 	{
