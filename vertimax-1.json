@@ -3,24 +3,24 @@
 	"drill": "Burpees",
 	"sport": "general",
 	"reps":{
-      "resistance": [12, 15],
-      "no-resistance": [8 ,10]
-    }
+        "resistance": ['12', '15'],
+        "no-resistance": ['8' ,'10']
+         }
 },
 	{
 	"drill": "Barebell Snatchs",
 	"sport": "general",
 	"reps": {
-      "resistance": [5, 8],
-      "no-resistance": [10, 16]
-    }
+        "resistance": [5, 8],
+        "no-resistance": [10, 16]
+        }
 },
 	{
 	"drill": "Mountain Climbers",
 	"sport": "general",
 	"reps": {
-      "resistance": [10, 15],
-      "no-resistance": [30, 40]
+        "resistance": [10, 15],
+        "no-resistance": [30, 40]
     }
   }
 ]
